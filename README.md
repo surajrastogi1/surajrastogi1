@@ -1,5 +1,5 @@
 # 💫 About Me:
-# *I am a Passionate Computer Science Engineer Student. Love to build cool stuff and learning new things*
+**I am a Passionate Computer Science Engineer Student. Love to build cool stuff and learning new things**
 
 
 ## 🌐 Socials:
