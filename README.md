@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Suraj Rastogi <br><br>I'm a passionate **Gen AI Engineer focused on designing scalable AI pipelines, optimizing model performance, and exploring the frontiers of retrieval-augmented generation (RAG)** . <br>I love building things that live on the internet and solving complex problems with code.<br><br>### 🚀 What I'm up to:<br>- 🔭 I’m currently working on **ResearchMind : An AI Powered PDF Research Assistant**<br>- 🌱 I’m currently learning **React**<br><br><br>
+# *I am a Passionate Computer Science Engineer Student. Love to build cool stuff and learning new things*
 
 
 ## 🌐 Socials:
