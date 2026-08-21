@@ -1,10 +1,62 @@
-# 💫 About Me:
-**I am a Passionate Computer Science Engineer Student. Love to build cool stuff and learning new things**
+                                                       Hey, I'm Suraj 👋
 
+### AI & Full-Stack Developer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-rastogi-801385343/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SurajRastogi121)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajrastogi606@gmail.com) 
+I'm a B.Tech student who enjoys building **AI-powered products and full-stack applications**.
+I started with Machine Learning and gradually moved into backend and full-stack development, where I now build applications using **FastAPI, React, PostgreSQL, and AI/LLMs**.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+---
 
+## 🚀 My Projects
+
+### 🧠 ResearchMind
+
+AI-powered research assistant that lets users chat with PDFs and generate summaries, notes, flashcards, and quizzes.
+
+### 🏗️ BuilderAI
+
+AI-powered website builder that turns natural-language prompts into functional web applications.
+
+### 🤖 AI Code Reviewer
+
+Automated AI code review system that reviews GitHub code changes through GitHub Actions and delivers feedback via email.
+
+### 🎬 Movie Recommendation System
+
+Content-based movie recommendation system using **TF-IDF and cosine similarity** to recommend similar movies.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+Python · JavaScript · TypeScript · C++
+
+**Frontend:**
+React · Tailwind CSS · HTML · CSS
+
+**Backend:**
+FastAPI · Node.js · Express
+
+**Database:**
+PostgreSQL · SQLite · SQL
+
+**AI / ML:**
+Machine Learning · Deep Learning · Generative AI · LLMs · Embeddings · AI Agents
+
+**Tools:**
+Git · GitHub · GitHub Actions · Docker
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 **LinkedIn:** https://www.linkedin.com/in/suraj-rastogi-801385343/
+* 🐔 **Twitter/X:** https://x.com/SurajRastogi121
+* 🌐 **Portfolio:** https://surajrastogi.netlify.app/
+* 📧 **Email:** surajrastogi606@gmail.com
+* 🐙 **GitHub:** https://github.com/surajrastogi1
+
+---
+
+⭐ Thanks for visiting my profile!
