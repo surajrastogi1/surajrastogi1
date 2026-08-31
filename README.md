@@ -9,6 +9,12 @@ I started with Machine Learning and gradually moved into backend and full-stack 
 
 ## 🚀 My Projects
 
+---
+
+### 👩‍💻 Currently Building Full Stack Video Meeting Web application
+
+---
+
 ### 🧠 ResearchMind
 
 AI-powered research assistant that lets users chat with PDFs and generate summaries, notes, flashcards, and quizzes.
