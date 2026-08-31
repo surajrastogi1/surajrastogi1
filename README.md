@@ -2,7 +2,7 @@
 
 ### AI & Full-Stack Developer
 
-I'm a B.Tech student who enjoys building **AI-powered products and full-stack applications**.
+I'm a B.Tech 2nd year student who enjoys building **AI-powered products and full-stack applications**.
 I started with Machine Learning and gradually moved into backend and full-stack development, where I now build applications using **FastAPI, React, PostgreSQL, and AI/LLMs**.
 
 ---
