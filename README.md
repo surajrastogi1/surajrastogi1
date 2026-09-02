@@ -48,7 +48,7 @@ FastAPI · Node.js · Express
 PostgreSQL · SQLite · SQL
 
 **AI / ML:**
-Machine Learning · Deep Learning · Generative AI · LLMs · Embeddings · AI Agents
+Machine Learning · Deep Learning · Generative AI · LLMs · Embeddings · AI Agents · RAG
 
 **Tools:**
 Git · GitHub · GitHub Actions · Docker
