@@ -9,27 +9,10 @@ I started with Machine Learning and gradually moved into backend and full-stack 
 
 ## 🚀 My Projects
 
----
-
-### 👩‍💻 Currently Building Full Stack Video Meeting Web application
-
----
-
-### 🧠 ResearchMind
-
-AI-powered research assistant that lets users chat with PDFs and generate summaries, notes, flashcards, and quizzes.
-
-### 🏗️ BuilderAI
-
-AI-powered website builder that turns natural-language prompts into functional web applications.
-
-### 🤖 AI Code Reviewer
-
-Automated AI code review system that reviews GitHub code changes through GitHub Actions and delivers feedback via email.
-
-### 🎬 Movie Recommendation System
-
-Content-based movie recommendation system using **TF-IDF and cosine similarity** to recommend similar movies.
+1. 👩‍💻 Currently Building Full Stack Video Meeting Web application
+2. 🧠 ResearchMind - AI-powered research assistant that lets users chat with PDFs and generate summaries, notes, flashcards, and quizzes.
+3. 🏗️ BuilderAI - AI-powered website builder that turns natural-language prompts into functional web applications.
+4. 🤖 AI Code Reviewer - Automated AI code review system that reviews GitHub code changes through GitHub Actions and delivers feedback via email.
 
 ---
 
