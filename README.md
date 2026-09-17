@@ -1,9 +1,4 @@
-                                                       Hey, I'm Suraj 👋
-
-### AI & Full-Stack Developer
-
-I'm a B.Tech 2nd year student who enjoys building **AI-powered products and full-stack applications**.
-I started with Machine Learning and gradually moved into backend and full-stack development, where I now build applications using **FastAPI, React, PostgreSQL, and AI/LLMs**.
+### 👱 Hey I am Suraj
 
 ---
 
@@ -14,29 +9,7 @@ I started with Machine Learning and gradually moved into backend and full-stack 
 3. 🏗️ BuilderAI - AI-powered website builder that turns natural-language prompts into functional web applications.
 4. 🤖 AI Code Reviewer - Automated AI code review system that reviews GitHub code changes through GitHub Actions and delivers feedback via email.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:**
-Python · JavaScript · TypeScript · C++
-
-**Frontend:**
-React · Tailwind CSS · HTML · CSS
-
-**Backend:**
-FastAPI · Node.js · Express
-
-**Database:**
-PostgreSQL · SQLite · SQL
-
-**AI / ML:**
-Machine Learning · Deep Learning · Generative AI · LLMs · Embeddings · AI Agents · RAG
-
-**Tools:**
-Git · GitHub · GitHub Actions · Docker
-
----
+--- 
 
 ## 🌐 Connect With Me
 
