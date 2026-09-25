@@ -43,7 +43,6 @@
 
 ---
 
-Here is an updated Connect with Me section adding links for X (Twitter) and a Portfolio website, styled to match the shield badges in your current layout:
 
 ### 📫 Connect with Me
 <p align="left">
