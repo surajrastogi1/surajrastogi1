@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Suraj Rastogi</h1>
+<h1 align="center">Hi, I'm Suraj Rastogi</h1>
 <h3 align="center">A passionate developer exploring technology and building impactful projects</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E95D7&center=true&vcenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Explorer" alt="Typing SVG" />
 </p>
 
----
 
-### 💫 About Me
-- 🔭 **Currently:** Working on personal and open-source projects
-- 🌱 **Learning:** Advanced Web Development & Cloud Architecture
-- ⚡ **Fun Fact:** I love solving complex puzzles and tweaking developer tools
+## Projects
+1.  ***ResearchMind -*** AI PDF Research Assistant
+2.  ***ResearchAgent -*** <a href="https://research-agent-pi-nine.vercel.app">AI Research Agent v1<a/>
+3.  ***BuilderAI -*** AI Agent To build Websites
+4.  ***Meetly -*** Video Meeting Web Application
 
----
 
-### 🛠️ Tech Stack
+
+##  Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,19 +32,19 @@
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ---
 
-### 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surajrastogi1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajrastogi1&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
 
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/suraj-rastogi-801385343" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
