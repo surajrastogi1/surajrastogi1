@@ -7,7 +7,7 @@
 
 
 ## Projects
-1.  ***ResearchAgent -*** <a href="https://research-agent-pi-nine.vercel.app">AI Research Agent v1<a/>
+1.  ***SurGent -*** <a href="https://research-agent-pi-nine.vercel.app">AI Research Agent v1<a/>
 2.  ***ResearchMind -*** AI PDF Research Assistant
 3.  ***BuilderAI -*** AI Agent To build Websites
 4.  ***Meetly -*** Video Meeting Web Application
