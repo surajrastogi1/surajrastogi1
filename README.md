@@ -8,9 +8,9 @@
 
 ## Projects
 1.  ***SurGent -*** <a href="https://research-agent-pi-nine.vercel.app">AI Research Agent v1<a/>
-2.  ***ResearchMind -*** AI PDF Research Assistant
-3.  ***BuilderAI -*** AI Agent To build Websites
-4.  ***Meetly -*** Video Meeting Web Application
+2.  ***ResearchMind -*** <a href="https://github.com/surajrastogi1/ResearchMind">AI PDF Research Assistant<a/>
+3.  ***BuilderAI -*** <a href="https://github.com/surajrastogi1/ai-website-builder">AI Agent To build Websites<a/>
+4.  ***Meetly -*** <a href="https://github.com/surajrastogi1/Meetly">Video Meeting Web Application<a/>
 
 
 
